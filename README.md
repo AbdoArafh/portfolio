@@ -5,8 +5,8 @@
   </a>
 </p>
 
-> This is Avneesh's portfolio, feel free to use it and contribute to it
-> ![Avneesh's portfolio](https://user-images.githubusercontent.com/76690419/208230094-77705d55-5099-4539-8ff9-97b7ae041013.png)
+> This is Abdurrahman's portfolio, feel free to use it and contribute to it
+> ![Abdurrahman's portfolio](./public/screenshot.png)
 
 ### 🏠 [Homepage](https://abdurrahman-arafh.vercel.app/)
 
