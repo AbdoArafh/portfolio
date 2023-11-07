@@ -39,47 +39,33 @@ const data = {
       role: 'Frontend Developer',
     },
     {
-      name: 'Candypay',
-      image: '/projects/candypay.png',
-      about: 'Seamless, mobile-native NFT & Payments experiences on solana! 🍭',
-      tech: ['Next.js', 'solana', 'Typescript'],
+      name: '🔮 Case Alchemy',
+      image: '/projects/case-alchemy.png',
+      about:
+        'A light-weight, fast, tree-shakable library for effortless text case transformations with a touch of magic.',
+      tech: ['Typescript', 'Jest', 'semantic-release'],
       links: {
-        GitHub: 'https://github.com/candypay',
-        Live: 'https://www.producthunt.com/posts/faucetli',
+        GitHub: 'https://github.com/AbdoArafh/case-alchemy/',
+        Live: 'https://www.npmjs.com/package/case-alchemy',
       },
-      role: 'Fullstack web3 developer',
+      role: 'Developer',
     },
   ],
   links: [
     {
       name: 'GitHub',
       icon: 'github.svg',
-      link: 'https://github.com/avneesh0612',
-    },
-    {
-      name: 'Twitter',
-      icon: 'twitter.svg',
-      link: 'https://twitter.com/avneesh0612',
-    },
-    {
-      name: 'Hashnode',
-      icon: 'hashnode.svg',
-      link: 'https://blog.avneesh.tech',
-    },
-    {
-      name: 'Instagram',
-      icon: 'instagram.svg',
-      link: 'https://instagram.com/avneesh.codes',
+      link: 'https://github.com/AbdoArafh',
     },
     {
       name: 'Mail me',
       icon: 'mail.svg',
-      link: 'mailto:avneeshagarwal0612@gmail.com',
+      link: 'mailto:abdurrahman.arafh54@gmail.com',
     },
     {
       name: 'LinkedIn',
       icon: 'linkedin.svg',
-      link: 'https://www.linkedin.com/in/avneesh0612',
+      link: 'https://www.linkedin.com/in/abdurrahman-arafah-489798203/',
     },
   ],
 };
