@@ -26,7 +26,7 @@ const Header = () => {
 
   return (
     <nav
-      className={`px-8 md:px-24 fixed md:py-4 py-6 bg-bgblue/60 backdrop-filter backdrop-blur-xl w-full max-w-[100vw] top-0 z-20  ${
+      className={`px-8 md:px-24 fixed py-4 bg-bgblue/60 backdrop-filter backdrop-blur-xl w-full max-w-screen top-0 z-20  ${
         handleShow ? 'shadow-2xl' : ''
       }`}
     >

@@ -7,9 +7,10 @@ interface INavOption {
     href: string;
   };
   number: number;
+  onClick?: () => void;
 }
 
-const NavOption: FC<INavOption> = ({ item, number }) => {
+const NavOption: FC<INavOption> = ({ item, number, onClick }) => {
   return (
     <p className="border-b-2 border-transparent cursor-pointer text-text hover:border-neon">
       <Link
@@ -20,6 +21,7 @@ const NavOption: FC<INavOption> = ({ item, number }) => {
         smooth={true}
         spy={true}
         to={item.href}
+        onClick={onClick}
       >
         <span className="text-neon">{number}. </span>
         {item.name}

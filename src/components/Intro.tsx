@@ -12,7 +12,7 @@ export const Intro = () => {
       initial={{ y: 40 }}
       transition={{ duration: 0.5 }}
     >
-      <p className="text-3xl text-neon font-fira">gm, my name is</p>
+      <p className="text-3xl text-neon font-fira">Hey there, my name is</p>
       <h1 className="text-5xl font-extrabold text-text md:text-8xl">
         {data.name}
       </h1>

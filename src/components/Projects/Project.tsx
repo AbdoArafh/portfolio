@@ -23,7 +23,7 @@ export const Project: FC<IProjectProps> = ({ project }) => {
         <p className="text-textDark mt-3 md:max-w-[700px]">{project.about}</p>
         {project.tech.map((tech, i) => (
           <span
-            className="inline-block bg-text text-darkerBlue rounded-full px-3 py-1 mt-2 mr-2"
+            className="inline-block text-sm bg-text text-darkerBlue rounded-full px-3 py-1 mt-2 mr-2"
             key={i}
           >
             {tech}

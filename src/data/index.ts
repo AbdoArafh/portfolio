@@ -1,38 +1,42 @@
 const data = {
-  name: 'Avneesh Agarwal',
-  image: '/avatar.png',
-  username: 'avneesh0612',
-  keywords:
-    'Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator',
-  profession: 'FullStack web3 developer',
+  name: 'Abdurrahman Salah',
+  image: '/avatar.jpg',
+  username: 'AbdoArafh',
+  keywords: 'Abdurrahman, Frontend, Developer, Nextjs, Reactjs, Tailwindcss',
+  profession: 'Frontend Developer',
   intro:
-    'Focused on building products that people love to use. I love to learn new things and share my knowledge with others. I teach others by creating content! I am also a devrel at thirdweb.',
+    'I love to create cool and robust websites with animations and love problem solving even more',
   about:
-    'I’m a 15 y/o full-stack web3 developer building cool products and teaching others by creating content that revolves around many areas in web3.',
-  website: 'https://www.avneesh.tech',
+    "I'm a frontend developer who aspires to be the best in the field by learning and trying out new things everyday",
+  website: 'https://github.com/AbdoArafh',
   projects: [
     {
-      name: 'thirdweb',
-      image: '/projects/thirdweb.png',
+      name: 'Pconso',
+      image: '/projects/pconso.png',
       about:
-        "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more.",
-      tech: ['Web3', 'Next.js', 'Chakra UI', 'Typescript', 'Content writing'],
+        'Pconso consolidates all your live business data, suggests optimizations based on your data, forecasts current and future performance.',
+      tech: [
+        'Next.js',
+        'Tailwind CSS',
+        'Typescript',
+        'Strapi',
+        'Framer Motion',
+      ],
       links: {
-        Live: 'https://thirdweb.com/',
-        Github: 'https://github.com/thirdweb-dev',
+        Live: 'https://pconso.com',
       },
-      role: 'Developer Relations Engineer',
+      role: 'Frontend Developer',
     },
     {
-      name: 'Yoke',
-      image: '/projects/yoke.png',
+      name: 'PEV News',
+      image: '/projects/pev-news.png',
       about:
-        'YOKE is the leading NIL software enabling teams to grow a business through building community. Thousands of athletes earn monthly income through NIL Clubs powered by YOKE.',
-      tech: ['Next.js', 'Chakra UI', 'Typescript', 'web3', 'thirdweb'],
+        'Discover the Future of Mobility at Pev News: Your Premier Destination for All Things Personal Electric Vehicles. Ride the Wave of Innovation with our Latest News, Expert Reviews, and Deep Insights into the World of Electric Mobility.',
+      tech: ['Next.js', 'Tailwind CSS', 'Daisy UI', 'Typescript', 'Strapi'],
       links: {
-        Live: 'https://www.yoketeam.com/',
+        Live: 'https://pev.news/',
       },
-      role: 'Fullstack web3 developer',
+      role: 'Frontend Developer',
     },
     {
       name: 'Candypay',
