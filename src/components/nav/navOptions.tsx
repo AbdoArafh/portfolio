@@ -13,6 +13,10 @@ const navOptions = [
   //   href: 'blog',
   // },
   {
+    name: 'Skills',
+    href: 'skills',
+  },
+  {
     name: 'Contact',
     href: 'contact',
   },

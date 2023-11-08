@@ -51,6 +51,21 @@ const data = {
       role: 'Developer',
     },
   ],
+  skills: [
+    { name: 'Nextjs', href: 'https://nextjs.org/' },
+    { name: 'Reactjs', href: 'https://reactjs.org/' },
+    { name: 'Tailwind CSS', href: 'https://tailwindcss.com/' },
+    { name: 'Typescript' },
+    { name: 'HTML' },
+    { name: 'CSS' },
+    { name: 'JavaScript' },
+    { name: 'SCSS' },
+    { name: 'Astrojs' },
+    { name: 'Preact' },
+    { name: 'Git' },
+    { name: 'React Query' },
+    { name: 'Framer Motion' },
+  ],
   links: [
     {
       name: 'GitHub',
@@ -61,6 +76,11 @@ const data = {
       name: 'Mail me',
       icon: 'mail.svg',
       link: 'mailto:abdurrahman.arafh54@gmail.com',
+    },
+    {
+      name: 'Upwork',
+      icon: 'upwork.svg',
+      link: 'https://upwork.com/freelancers/~01245f3679740e2843',
     },
     {
       name: 'LinkedIn',

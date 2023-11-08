@@ -1,5 +1,5 @@
 import Layout from '@/Layout/Main.Layout';
-import { About, Contact, Intro, Projects } from '@/components';
+import { About, Contact, Intro, Projects, Skills } from '@/components';
 
 const Home = () => {
   return (
@@ -7,6 +7,7 @@ const Home = () => {
       <Intro />
       <About />
       <Projects />
+      <Skills />
       {/* <Blog Posts={Posts} /> */}
       <Contact />
     </Layout>
